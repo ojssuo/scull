@@ -37,7 +37,7 @@
 /*
  * Our parameters which can be set at load time.
  */
-/*这个东西不太好掌握哟*/
+
 int scull_major =   SCULL_MAJOR;
 int scull_minor =   0;
 int scull_nr_devs = SCULL_NR_DEVS;	/* number of bare scull devices */
